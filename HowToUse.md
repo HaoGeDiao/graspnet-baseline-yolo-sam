@@ -1,0 +1,3 @@
+需要在ultralytics网站下载mobile_sam.pt和yolov8s-world.pt，下载与训练checkpoint-rs.tar,路径见yoloSamGraspnet.py
+
+直接运行yoloSamGraspnet.py
